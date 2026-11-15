@@ -1,5 +1,5 @@
 ## Nombre del archivo: GenioYFigura.py
-## Descripción: El usuario ingresa una dimensión, el símbolo a utilizar y la figura a imprimir.
+## Descripción: El usuario ingresa una dimensión, el símbolo a utilizar y la figura a imprimir
 ## Autor: Ossiel Lizarraga Jimenez, Ricardo Medina Cordova
 ## Fecha: 4/11/2026
 def reloj(n, simbolo, vacio):
