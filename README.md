@@ -12,3 +12,5 @@ Calcula la calificacion necesaria del 4 examen necesaria para diferentes rangos
 Consigue los primeros 16 digitos de CURP
 ### Genio y Figura
 Crea figuras rellenas y huecas dadas dimensiones y simbolo
+### BlackJack
+Usando Tkinter crea el juego basico de Blackjack
